@@ -1,0 +1,3 @@
+battle:
+  nr_turns: 20
+  sleep: 300000

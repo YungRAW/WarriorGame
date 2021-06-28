@@ -1,0 +1,15 @@
+skills:
+  hero:
+    rapid_strike:
+      name: Rapid Strike
+      chance: 30
+      value: 2
+      action: attack
+      class_name: RapidStrike
+
+    magic_shield:
+      name: Magic Shield
+      chance: 50
+      value: 2
+      action: defence
+      class_name: MagicShield
