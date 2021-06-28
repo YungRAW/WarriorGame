@@ -6,6 +6,6 @@ Implementing WarriorGame given at an interview
     composer dump-autoload -o
 ## Run the CLI 
     php index.php
-## Runt the tests
+## Run the tests
     ./vendor/bin/phpunit tests
 
